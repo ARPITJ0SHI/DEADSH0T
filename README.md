@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEADSH0T
 - 👀 I’m interested in ...web development and programming
-- 🌱 I’m currently learning ...Computer science engineering first year
+- 🌱 I’m currently learning ...Computer science engineering second year
 - 💞️ I’m looking to collaborate on ...web development and hackathon
 - 📫 How to reach me ... arpitjoshi555@gmail.com
 
